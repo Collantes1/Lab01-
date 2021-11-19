@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="InfoA">A:</string>
+    <string name="InfoB">B:</string>
+    <string name="InfoRes">Result:</string>
+    <string name="InfoAdd">Add</string>
+    <string name="InfoSub">Subtract</string>
+    <string name="InfoMult">Multiply</string>
+    <string name="InfoDiv">Divide</string>
+</resources>
